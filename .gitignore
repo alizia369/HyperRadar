@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.egg-info/
+mvrss/carrada_logs/
+checkpoints/
+*.pt
+*.pth
